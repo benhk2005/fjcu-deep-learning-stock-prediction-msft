@@ -9,10 +9,10 @@ Stock Ticker: `MSFT`
 #### Rolling
 | Learning Rate | Batch Size | Link |
 | ------------- | ------------- | ------------- |
-| 0.01 | 32 | |
-| 0.01 | 64 | |
-| 0.001 | 32 | |
-| 0.001 | 64 | |
+| 0.01 | 32 | [https://github.com/benhk2005/fjcu-deep-learning-stock-prediction-msft/blob/main/Rolling-LR%3D0.01%2CBS%3D32.ipynb] |
+| 0.01 | 64 | [https://github.com/benhk2005/fjcu-deep-learning-stock-prediction-msft/blob/main/Rolling-LR%3D0.01%2CBS%3D64.ipynb] |
+| 0.001 | 32 | [https://github.com/benhk2005/fjcu-deep-learning-stock-prediction-msft/blob/main/Rolling-LR%3D0.001%2CBS%3D32.ipynb] |
+| 0.001 | 64 | [https://github.com/benhk2005/fjcu-deep-learning-stock-prediction-msft/blob/main/Rolling-LR%3D0.001%2CBS%3D64.ipynb] |
 
 
 #### Expanding
